@@ -9,3 +9,4 @@ coverage
 *.suo
 *.ntvs*
 *.njsproj
+config/firebase-service-account.json
